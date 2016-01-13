@@ -1,0 +1,2 @@
+# jstocks
+Stock management system
